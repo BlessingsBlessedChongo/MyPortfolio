@@ -34,7 +34,7 @@ const projectList = [
     title: "The OtherSide Website ",
     description:
       "An exciting platform for young people to be heard by casting their votes on their favourite artist's songs.",
-    url: "https://github.com/BlessingsBlessedChongo/TheOtherSideWebsite",
+    url: "https://wonderful-water-08aef870f.4.azurestaticapps.net/index.html",
   },
   {
     title: " Healthcare System Using C#",
