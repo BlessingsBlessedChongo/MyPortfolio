@@ -46,7 +46,7 @@ const projectList = [
     title: "My Resume Site",
     description:
       "It includes my educational background, skills and other relevant experiences",
-    url: "https://github.com/BlessingsBlessedChongo/BlessingsBlessedChongo.github.io",
+    url: "https://BlessingsBlessedChongo.github.io",
   },
   {
     title: "Simple Calculator with Python",
